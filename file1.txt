@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii world am here.can u see me..
+=======
+hii worl am here. can u see me..
+>>>>>>> conflict-demo
